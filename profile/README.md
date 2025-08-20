@@ -1,5 +1,4 @@
-<div><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1FA9DC,100:543fd6&text=Zerofit&desc=기업%20맞춤형%20온실가스%20감축%20솔루션%20서비스&descAlignY=100&descAlign=62&textBg=false&fontColor=FFFFFF&fontSize=60&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20" />
-</div>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=ZeroFit&desc=기업%20맞춤형%20온실가스%20감축%20솔루션%20서비스&fontAlign=50&fontAlignY=40&color=gradient&fontSize=50)
 
 ### 👋 팀원 소개
 
@@ -10,15 +9,14 @@
 | [김해연](https://github.com/sunkiteo-o) | 컴퓨터공학과 | FE   | hyhy020301@gmail.com  |
 
 
-</br>
-</br>
-
 ## 🎯 프로젝트 목적
 
 ZeroFit은 중소기업이 직면한 온실가스 감축의 어려움을 해결하기 위해 기획된 기업
 맞춤형 솔루션 제안 서비스입니다. 기업의 산업군, 설비, 투자 여건 등 다양한 상황을
 반영하여 AI 기반으로 최적의 감축 솔루션을 추천하고, 이를 직관적인 웹 대시보드
 형태로 제공합니다.
+
+</br>
 
 ## 🎯 프로젝트 배경
 
@@ -30,63 +28,59 @@ ZeroFit은 중소기업이 직면한 온실가스 감축의 어려움을 해결�
 이러한 문제를 해소하기 위해, 기업별 상황을 분석하고 맞춤형 솔루션을 제시하는
 플랫폼이 필요하다는 점에서 ZeroFit을 개발하게 되었습니다.
 
-<p align="left">
-  <img src="이미지1링크" width="200" height="200"/>
-  <img src="이미지2링크" width="200" height="200"/>
-</p>
-
-여기에 **우리 프로젝트가 사회 문제를 어떻게 해결하는지** 한국어로 서술.  
-(어떤 SDG 목표와 연결되는지, 구체적으로 어떤 효과가 있는지)
-
 ---
 
 ## 📖 프로젝트 소개
 
-<img width="100%" alt="프로젝트 소개 이미지" src="이미지링크" />
+### 🔎 기업 맞춤 조건 설정
+기업의 산업군(13개), 대상 설비(23개), 투자비, 배출량, 목표 ROI 등을 입력 받습니다.
+<p align="center">
+ <img width="600"  src="https://github.com/user-attachments/assets/93db2551-a103-4b5a-89a6-b5d00ca89659" alt="기업-솔루션-추천" />
+</p>
+
+
+### 💡 솔루션 추천
+기업의 입력 조건에 맞는 최적의 솔루션을 추천합니다.<br>
+기업마다 ROI·투자 효율성, 온실가스 감축량 등 중점을 두는 기준이 다르기 때문에,<br>
+👉 **종합 최적 / 감축량 최적 / 절감액 최적 / ROI 최적** 관점으로 구분된 탭 화면을 통해 솔루션 추천합니다.
+
+<p align="center">
+  <img width="600" alt="축소된 AI 컨설턴트" src="https://github.com/user-attachments/assets/02dd5b22-31de-4a46-bd35-c825e4372628">
+</p>
+
+
+### 🤖 AI 컨설턴트 
+ZeroFit은 중소기업 전용 컨설팅을 위해 AI가 상위 1 ~ 4위 솔루션을 컨설팅합니다.<br>
+기업별 입력(산업군, 대상 설비, 투자비, 목표 배출량/ROI 등)을 반영해 관점별(ROI, 투자비, 절감효과, 감축량) 추천 결과를 해설하고,<br>
+Top 1에 대한 상세 설명과 Top 2~4와의 비교 분석을 제공합니다. 
+<p align="center">
+  <img width="600" alt="축소된 AI 컨설턴트" src="https://github.com/user-attachments/assets/58190656-f15e-4ef7-95f5-f93461dfa1de">
+</p>
+
+
+### 📊 마이페이지 - 솔루션 분석 히스토리
+사용자가 이전에 조회한 솔루션 추천 및 분석 결과를 확인할 수 있는 공간입니다. 
+과거 검색 이력을 저장하여 다시 확인 가능합니다.
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/793b759c-059c-48ba-ac9d-520f26d07da8" /></p>
+
 
 ---
 
-## 📌 프로젝트 샘플
-
+## 🏗️ Architecture
 <p align="center">
- <img src="샘플이미지1" width="50%" align="left">
- <img src="샘플이미지2" width="50%" align="right">
-</p>
-
-> 설명글 (예: "사용자는 가이드를 통해 쉽게 학습 가능")
-
-<br><br>
-
-<p align="center">
- <img src="샘플이미지3" width="50%" align="left">
- <img src="샘플이미지4" width="50%" align="right">
-</p>
-
-> 설명글 (예: "원하는 프롬프트를 선택해 공유 가능")
-
----
-
-# 🏗️ Architecture
-
 <img width="864" height="438" alt="image" src="https://github.com/user-attachments/assets/91ab5a8f-f70f-4ffa-b905-1dde20ec4c95" />
+</p>
 
 ---
 
-# ✨ 데모
+##  ✨ 데모
 
 ## ⬇️ 클릭해서 영상 보기
-
-[![Watch the video](영상썸네일링크)](영상URL)
-
----
-
-# 🌐 서비스 링크
-
-[서비스명](https://서비스URL)
+<img width="1833" height="857" alt="image" src="https://github.com/user-attachments/assets/040e29fb-211f-4f18-b1e7-9353b17d74b4" />
 
 ---
 
-# 📌 Commit Convention
+###  🎯 Commit Convention
 
 - feat: 새로운 기능 추가
 - fix: 버그 수정
