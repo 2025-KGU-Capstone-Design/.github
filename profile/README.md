@@ -1,25 +1,26 @@
-<div><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1FA9DC,100:543fd6&text=프로젝트명&descAlignY=100&descAlign=62&textBg=false&fontColor=FFFFFF&fontSize=70&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20" /></div>
+<div><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1FA9DC,100:543fd6&text=Zerofit&desc=기업%20맞춤형%20온실가스%20감축%20솔루션%20서비스&descAlignY=100&descAlign=62&textBg=false&fontColor=FFFFFF&fontSize=60&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20" />
+</div>
 
-# 👋 팀원 소개
+### 👋 팀원 소개
 
 | 이름                                    | 전공         | 역할 | 이메일                |
 | --------------------------------------- | ------------ | ---- | --------------------- |
 | [최석영](https://github.com/sy0713)     | 컴퓨터공학과 | AI   | szero0713@gmail.com   |
 | [박승민](https://github.com/smpark00)   | 컴퓨터공학과 | BE   | psm0811@kyonggi.ac.kr |
 | [김해연](https://github.com/sunkiteo-o) | 컴퓨터공학과 | FE   | hyhy020301@gmail.com  |
-| ...                                     | ...          | ...  | ...                   |
+
 
 </br>
 </br>
 
-# 🎯 프로젝트 목적
+## 🎯 프로젝트 목적
 
 ZeroFit은 중소기업이 직면한 온실가스 감축의 어려움을 해결하기 위해 기획된 기업
 맞춤형 솔루션 제안 서비스입니다. 기업의 산업군, 설비, 투자 여건 등 다양한 상황을
 반영하여 AI 기반으로 최적의 감축 솔루션을 추천하고, 이를 직관적인 웹 대시보드
 형태로 제공합니다.
 
-# 🎯 프로젝트 배경
+## 🎯 프로젝트 배경
 
 최근 정부와 시장 전반에서 ESG 경영과 탄소중립 대응 요구가 확대됨에 따라,
 대기업뿐만 아니라 중소기업 역시 온실가스 감축 전략을 마련해야 하는 상황입니다.
@@ -39,13 +40,13 @@ ZeroFit은 중소기업이 직면한 온실가스 감축의 어려움을 해결�
 
 ---
 
-# 📖 프로젝트 소개
+## 📖 프로젝트 소개
 
 <img width="100%" alt="프로젝트 소개 이미지" src="이미지링크" />
 
 ---
 
-# 📌 프로젝트 샘플
+## 📌 프로젝트 샘플
 
 <p align="center">
  <img src="샘플이미지1" width="50%" align="left">
@@ -65,9 +66,9 @@ ZeroFit은 중소기업이 직면한 온실가스 감축의 어려움을 해결�
 
 ---
 
-# 🏗️ 아키텍처
+# 🏗️ Architecture
 
-<img width="100%" alt="아키텍처 이미지" src="이미지링크" />
+<img width="864" height="438" alt="image" src="https://github.com/user-attachments/assets/91ab5a8f-f70f-4ffa-b905-1dde20ec4c95" />
 
 ---
 
@@ -94,16 +95,17 @@ ZeroFit은 중소기업이 직면한 온실가스 감축의 어려움을 해결�
 
 ---
 
-# 🛠️ 기술 스택
+### 🛠️ Tech
 
-(뱃지로 정리)  
-예:  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
+<img src="https://img.shields.io/badge/ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/fastAPI-009688?style=for-the-badge&logo=fastAPI&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-# ☁️ 오픈소스 활용
+## ☁️ OpenSource
 
 - 프론트엔드: React, TypeScript, MUI, Chart.js
 - 백엔드: Kotlin, Ktor
@@ -112,13 +114,13 @@ ZeroFit은 중소기업이 직면한 온실가스 감축의 어려움을 해결�
 
 ---
 
-# 🤖 생성형 AI
+## 🤖 생성형 AI
 
 - AI 모델: OpenAI
 
 ---
 
-# ✍️ 팀 아티클 & 인사이트
+## ✍️ 팀 아티클 & 인사이트
 
 - [자료1](링크)
 - [자료2](링크)
