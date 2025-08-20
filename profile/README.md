@@ -8,6 +8,7 @@
 | [박승민](https://github.com/smpark00)   | 컴퓨터공학과 | BE   | psm0811@kyonggi.ac.kr |
 | [김해연](https://github.com/sunkiteo-o) | 컴퓨터공학과 | FE   | hyhy020301@gmail.com  |
 
+<br>
 
 ## 🎯 프로젝트 목적
 
@@ -27,6 +28,8 @@ ZeroFit은 중소기업이 직면한 온실가스 감축의 어려움을 해결�
 
 이러한 문제를 해소하기 위해, 기업별 상황을 분석하고 맞춤형 솔루션을 제시하는
 플랫폼이 필요하다는 점에서 ZeroFit을 개발하게 되었습니다.
+
+<br>
 
 ---
 
