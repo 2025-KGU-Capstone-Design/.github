@@ -4,8 +4,8 @@
 
 | 이름                                    | 전공         | 역할 | 이메일                |
 | --------------------------------------- | ------------ | ---- | --------------------- |
-| [최석영](https://github.com/sy0713)     | 컴퓨터공학과 | AI   | szero0713@gmail.com   |
-| [박승민](https://github.com/smpark00)   | 컴퓨터공학과 | BE   | psm0811@kyonggi.ac.kr |
+| [최석영](https://github.com/sy0713)     | 컴퓨터공학과 | BE   | szero0713@gmail.com   |
+| [박승민](https://github.com/smpark00)   | 컴퓨터공학과 | AI   | psm0811@kyonggi.ac.kr |
 | [김해연](https://github.com/sunkiteo-o) | 컴퓨터공학과 | FE   | hyhy020301@gmail.com  |
 
 <br>
