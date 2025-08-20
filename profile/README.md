@@ -36,7 +36,7 @@ ZeroFit은 중소기업이 직면한 온실가스 감축의 어려움을 해결�
 ## 📖 프로젝트 소개
 
 ### 🔎 기업 맞춤 조건 설정
-기업의 산업군(13개), 대상 설비(23개), 투자비, 배출량, 목표 ROI 등을 입력 받습니다.
+기업의 산업군, 대상 설비, 투자비, 배출량, 목표 ROI 등을 입력 받습니다.
 <p align="center">
  <img width="600"  src="https://github.com/user-attachments/assets/93db2551-a103-4b5a-89a6-b5d00ca89659" alt="기업-솔루션-추천" />
 </p>
@@ -54,7 +54,7 @@ ZeroFit은 중소기업이 직면한 온실가스 감축의 어려움을 해결�
 
 ### 🤖 AI 컨설턴트 
 ZeroFit은 중소기업 전용 컨설팅을 위해 AI가 상위 1 ~ 4위 솔루션을 컨설팅합니다.<br>
-기업별 입력(산업군, 대상 설비, 투자비, 목표 배출량/ROI 등)을 반영해 관점별(ROI, 투자비, 절감효과, 감축량) 추천 결과를 해설하고,<br>
+기업별 입력을 반영해 관점별 솔루션 추천 결과를 해설하고,<br>
 Top 1에 대한 상세 설명과 Top 2~4와의 비교 분석을 제공합니다. 
 <p align="center">
   <img width="600" alt="축소된 AI 컨설턴트" src="https://github.com/user-attachments/assets/58190656-f15e-4ef7-95f5-f93461dfa1de">
