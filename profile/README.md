@@ -54,8 +54,7 @@ ZeroFit은 중소기업이 직면한 온실가스 감축의 어려움을 해결�
 
 ### 🤖 AI 컨설턴트 
 ZeroFit은 중소기업 전용 컨설팅을 위해 AI가 상위 1 ~ 4위 솔루션을 컨설팅합니다.<br>
-기업별 입력을 반영해 관점별 솔루션 추천 결과를 해설하고,<br>
-Top 1에 대한 상세 설명과 Top 2~4와의 비교 분석을 제공합니다. 
+기업별 입력을 반영해 관점별 솔루션 추천 결과를 해설하고, Top 1에 대한 상세 설명과 Top 2~4와의 비교 분석을 제공합니다. 
 <p align="center">
   <img width="600" alt="축소된 AI 컨설턴트" src="https://github.com/user-attachments/assets/58190656-f15e-4ef7-95f5-f93461dfa1de">
 </p>
