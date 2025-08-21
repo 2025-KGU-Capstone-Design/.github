@@ -103,8 +103,8 @@ ZeroFit은 중소기업 전용 컨설팅을 위해 AI가 상위 1 ~ 4위 솔루�
 
 ## ☁️ OpenSource
 
-- 프론트엔드: React, TypeScript, MUI, Chart.js
-- 백엔드: Kotlin, Ktor
+- 프론트엔드: React, TypeScript, MUI, Chart.js, React Bits
+- 백엔드: Kotlin, Ktor, Exposed
 - AI: Python, FastAPI, PyTorch
 - 기타: Docker, MySQL
 
