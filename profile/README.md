@@ -6,7 +6,9 @@
 | --------------------------------------- | ------------ | ---- | --------------------- |
 | [최석영](https://github.com/sy0713)     | 컴퓨터공학과 | BE   | szero0713@gmail.com   |
 | [박승민](https://github.com/smpark00)   | 컴퓨터공학과 | AI   | tonydragon27@gmail.com |
+| [강민지](https://github.com/CBAAabced)   | 컴퓨터공학과 | AI   | - |
 | [김해연](https://github.com/sunkiteo-o) | 컴퓨터공학과 | FE   | hyhy020301@gmail.com  |
+| [김유찬](https://github.com/eukddan) | 컴퓨터공학과 | FE   | -  |
 
 <br>
 
